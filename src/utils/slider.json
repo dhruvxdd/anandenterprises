@@ -1,38 +1,50 @@
 [
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Promotional Box",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "detail": "Promotional prop , can be used for prescription pad for Doctors",
+    "image": "./r1.webp"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Medicine Box",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "detail": "Boxes of every size available for different product packaging",
+    "image": "./r2.webp"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Promotional Standie Rack",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "detail": "Promotional rack, can be used in offices and other places",
+    "image": "./r3.webp"
   },
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Promotional Dangler",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "detail": "Eye-catchy promotional items available as per different size",
+    "image": "./r4.webp"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Promotional Paper Bag",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "detail": "Marketing cardboard sheet and cloth cary bags in all sizes",
+    "image": "./r5.webp"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "School Diary",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "detail": "School diaries and Magzines",
+    "image": "./r6.webp"
+  },
+  {
+    "name": "Writing Pad (Folder shaped) ",
+    "price": "35,853",
+    "detail": "Writing pads in various shapes like folder, A4, A5, etc. ",
+    "image": "./r7.webp"
+  },
+  {
+    "name": "Promotional Flex",
+    "price": "35,853",
+    "detail": "Holding Flexes,used for advertisement purposes on roads and other places. ",
+    "image": "./r8.webp"
   }
 ]
